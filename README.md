@@ -1,4 +1,4 @@
 # kubepattern-website
 > [!TIP]
-> This website was built entirely using Claude 4.0 🙃 its just a showcase website.
+> This is just a showcase website entirely built using AI 🙃.
 > Every design & structure improvements are much appricieated.
